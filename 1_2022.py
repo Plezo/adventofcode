@@ -1,4 +1,3 @@
-
 lines = []
 
 inp = open('input.txt', 'r')
